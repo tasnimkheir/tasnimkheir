@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], an aspiring Full Stack Web Developer currently honing my skills in HTML, CSS, JavaScript, and more! 👨‍💻
+I'm Tasnim Kheir, an aspiring Full Stack Web Developer currently honing my skills in HTML, CSS, JavaScript, and more! 👨‍💻
 
 ## About Me
 
