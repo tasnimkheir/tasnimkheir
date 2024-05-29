@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tasnim Kheir, an aspiring Full Stack Web Developer currently honing my skills in HTML, CSS, JavaScript, React, Node,js and more! 👨‍💻
+I'm Tasnim Kheir, an aspiring Full Stack Web Developer currently honing my skills in HTML, CSS, JavaScript, React, Node.js and more! 👨‍💻
 
 ## About Me
 
