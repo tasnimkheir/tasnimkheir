@@ -17,6 +17,16 @@ Let’s connect and create something amazing! 😊
 - Database: MongoDB, MySQL
 - Tools: Git, VS Code, GitHub
 
+## Technologies & Tools
+
+![JavaScript](https://example.com/path-to-javascript-logo.png)
+![HTML](https://example.com/path-to-html-logo.png)
+![CSS](https://example.com/path-to-css-logo.png)
+![React](https://example.com/path-to-react-logo.png)
+![Node.js](https://example.com/path-to-nodejs-logo.png)
+
+
+
 ## Let's Connect!
 
 www.linkedin.com/in/tasnimkheir
