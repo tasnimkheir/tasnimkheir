@@ -2,7 +2,7 @@
 
 🚀 My journey in tech began as I took on a role as a Product Owner, sparking a curiosity that led me to complete a Full Stack Programming Bootcamp. Since then, I've been committed to expanding my skill set, especially in responsive front-end design and effective back-end solutions.
 
-🌍 I relocated to Karlsruhe, Germany, where I’m diving deeper into web development through personal projects and a commitment to continuous learning. My latest project, EUA Afora, combines my passion for building user-friendly applications with a robust backend for data management and user interactions.
+🌍I’m diving deeper into web development through personal projects and a commitment to continuous learning. My latest project, EUA Afora, combines my passion for building user-friendly applications with a robust backend for data management and user interactions.
 
 📚 I’m always excited to connect with others in the industry and open to new learning opportunities, whether through internships, collaborations, or hands-on coding challenges.
 
